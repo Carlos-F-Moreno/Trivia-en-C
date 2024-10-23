@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1729657631 source:/mnt/hdd/Proyectos/c++/TriviaC/menu.c
+	<stdio.h>
+	"menu.h"
+
+1729657638 /mnt/hdd/Proyectos/c++/TriviaC/menu.h
+
+1729657062 source:/mnt/hdd/Proyectos/c++/TriviaC/preguntas.c
+	"preguntas.h"
+
+1729655685 /mnt/hdd/Proyectos/c++/TriviaC/preguntas.h
+
+1729657526 source:/mnt/hdd/Proyectos/c++/TriviaC/trivia.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<unistd.h>
+	"trivia.h"
+
+1729655667 /mnt/hdd/Proyectos/c++/TriviaC/trivia.h
+	"preguntas.h"
+
+1729657287 source:/mnt/hdd/Proyectos/c++/TriviaC/main.c
+	"menu.h"
+	"trivia.h"
+	"preguntas.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
